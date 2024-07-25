@@ -56,4 +56,7 @@ public class MoveController : MonoBehaviour
     {
         Gizmos.DrawWireSphere(groundCheck.position, groundCheckRadius);
     }
+
+
+    //Test for error debug testing for real! TEST 1 ...TEST 2 ...TEST 3 ...TEST 4  SEMUA OKAY KE TU???
 }
